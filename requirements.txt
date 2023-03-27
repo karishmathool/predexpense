@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+flask
+gunicorn==20.0.4
